@@ -1,6 +1,5 @@
 # Knowns Frontend Challenge
 
-Knownsインターン参加の課題です。
 [Hacker News API](https://hackernews.api-docs.io/v0/overview/introduction)からニュースの情報を取得してをそれを一覧表示するWebアプリケーションを構築いただきます。
 
 ## 提出方法
