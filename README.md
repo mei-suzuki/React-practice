@@ -2,8 +2,6 @@
 
 [Hacker News API](https://hackernews.api-docs.io/v0/overview/introduction)からニュースの情報を取得してをそれを一覧表示するWebアプリケーションを構築いただきます。
 
-## 提出方法
-masterブランチからfeature/{name}-answerブランチをきって実装を進め、masterブランチにPRをして提出です。
 
 ## 事前準備 必要なモジュールのインストールと環境立ち上げ
 
