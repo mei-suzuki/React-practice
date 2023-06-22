@@ -1,4 +1,4 @@
-# Knowns Frontend Challenge
+# Frontend Challenge
 
 [Hacker News API](https://hackernews.api-docs.io/v0/overview/introduction)からニュースの情報を取得してをそれを一覧表示するWebアプリケーションを構築いただきます。
 
